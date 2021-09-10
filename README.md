@@ -1,4 +1,4 @@
-# ¡Hola ![image](https://user-images.githubusercontent.com/85956402/132919608-63616b80-4fe0-4f8f-b261-9c3e490eead3.png) soy **Ian Cortez**!
+# ¡Hola :tada: soy **Ian Cortez**!
 
 ![Hello There](image.png)
 
