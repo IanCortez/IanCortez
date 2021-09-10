@@ -5,8 +5,8 @@
 
 ## Sobre mí
 
-* Estudiante de **CS** en **UTEC**. 
-* Actualmente, en el 4to ciclo de la carrera.
+:open_file_folder: Estudiante de **CS** en **UTEC**. 
+:books: Actualmente, en el 4to ciclo de la carrera.
 
 
 ## Intereses
@@ -18,9 +18,10 @@
 
 
 ## Mis lenguajes de programación
-* C++
-* Python
-* Golang
-* Java
-* Javascript (conceptos básicos)
+Los lenguajes que uso ordenados del más preferido al menos preferido.
+1. C++
+2. Golang
+3. Java
+4. Python
+5. Javascript (conceptos básicos)
 
