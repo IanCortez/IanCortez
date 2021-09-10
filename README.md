@@ -13,7 +13,7 @@
 
 * Videojuegos, mayormente juegos de peleas como Street Fighter :fist_right: o cooperativos como Dead by Daylight :skull_and_crossbones:.
 * Ver series y películas. Además de animes y mangas.
-* Escuchar rock-pop, y tocar guitarra.
+* Escuchar [música](https://youtu.be/dQw4w9WgXcQ), y tocar guitarra.
 * Aprender más sobre desarrollo web y desarrollo de videojuegos.
 
 
