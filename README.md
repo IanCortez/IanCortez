@@ -5,8 +5,9 @@
 
 ## Sobre mí
 
-:open_file_folder: Estudiante de **CS** en **UTEC**. 
-:books: Actualmente, en el 4to ciclo de la carrera.
+:books: Estudiante de **CS** en **UTEC**.
+
+:open_file_folder: Actualmente, en el 4to ciclo de la carrera.
 
 
 ## Intereses
