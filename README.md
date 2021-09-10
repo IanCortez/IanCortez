@@ -5,14 +5,13 @@
 
 ## Sobre mí
 
-:books: Estudiante de **CS** en **UTEC**.
-
-:open_file_folder: Actualmente, en el 4to ciclo de la carrera.
+:books: Estudiante de **CS** en **UTEC**. </br>
+:open_file_folder: Actualmente, en el 4to ciclo de la carrera. </br>
 
 
 ## Intereses
 
-* Videojuegos, mayormente juegos de peleas como Street Fighter o cooperativos como Dead by Daylight.
+* Videojuegos, mayormente juegos de peleas como Street Fighter :fist_right: o cooperativos como Dead by Daylight :skull_and_crossbones:.
 * Ver series y películas. Además de animes y mangas.
 * Escuchar rock-pop, y tocar guitarra.
 * Aprender más sobre desarrollo web y desarrollo de videojuegos.
