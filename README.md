@@ -1,4 +1,4 @@
-# ¡Hola :tada: soy **Ian Cortez**!
+# ¡Hola :wave: soy **Ian Cortez**!
 
 ![Hello There](image.png)
 
