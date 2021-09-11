@@ -30,11 +30,6 @@
 * JavaScript (conceptos básicos)
 
 
-### Herramientas
-
-* Git
-
-
 
 ## Cosas que quiero aprender
 
@@ -42,6 +37,7 @@
 
 * ReactJS, NodeJS
 * Rust
+* C
 * Html, CSS
 
 
