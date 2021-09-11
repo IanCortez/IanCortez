@@ -18,10 +18,10 @@
 * Aprender más sobre desarrollo web y desarrollo de videojuegos.
 
 
-## Cosas que sé y utilizo
+## :desktop_computer: Lenguajes y frameworks
 
 
-### :desktop_computer: Lenguajes
+### Los que conozco y uso
 
 * C++
 * Golang
@@ -30,10 +30,7 @@
 * JavaScript (conceptos básicos)
 
 
-
-## Cosas que quiero aprender
-
-### Lenguajes y Frameworks
+### Los que quiero aprender
 
 * ReactJS, NodeJS
 * Rust
