@@ -18,11 +18,30 @@
 * Aprender más sobre desarrollo web y desarrollo de videojuegos.
 
 
-## Mis lenguajes de programación
-Los lenguajes que uso ordenados del más preferido al menos preferido.
-1. C++
-2. Golang
-3. Java
-4. Python
-5. Javascript (conceptos básicos)
+## Cosas que sé y utilizo
+
+
+### Lenguajes
+
+* C++
+* Golang
+* Java
+* Python
+* JavaScript (conceptos básicos)
+
+
+### Herramientas
+
+* Git
+
+
+
+## Cosas que quiero aprender
+
+### Lenguajes y Frameworks
+
+* ReactJS, NodeJS
+* Rust
+* Html, CSS
+
 
