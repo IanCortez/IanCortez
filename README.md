@@ -21,7 +21,7 @@
 ## Cosas que sé y utilizo
 
 
-### Lenguajes
+### :desktop_computer: Lenguajes
 
 * C++
 * Golang
