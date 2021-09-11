@@ -21,7 +21,7 @@
 ## :desktop_computer: Lenguajes y frameworks
 
 
-### Los que conozco y uso
+### :man_technologist: Los que conozco y uso
 
 * C++
 * Golang
@@ -30,7 +30,7 @@
 * JavaScript (conceptos básicos)
 
 
-### Los que quiero aprender
+### :gear: Los que quiero aprender
 
 * ReactJS, NodeJS
 * Rust
