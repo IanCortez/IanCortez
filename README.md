@@ -1,10 +1,11 @@
-# ¡Hola :wave: soy **Ian Cortez**!
+# ¡Hola!
 
 ![Hello There](image.png)
 
 
 ## Sobre mí
 
+:wave: Me Llamo **Ian Cortez**.
 :books: Estudiante de **CS** en **UTEC**. </br>
 :open_file_folder: Actualmente, en el 4to ciclo de la carrera. </br>
 
