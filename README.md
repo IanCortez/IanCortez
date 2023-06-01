@@ -1,7 +1,5 @@
 # ¡Hola!
 
-![Hello There](image.png)
-
 
 ## Sobre mí
 
@@ -35,9 +33,7 @@
 * `JavaScript`
   - `ReactJS`
   - `NodeJS`
-  - `AngularJS`
 * `Rust`
 * `C`
-* `Html` y `CSS`
 
 
